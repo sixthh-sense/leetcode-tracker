@@ -6,7 +6,7 @@ group = "leetcode"
 version = "1.0-SNAPSHOT"
 
 java {
-    toolchain { langaugeVersion = JavaLanguageVersion.of(17)}
+    toolchain { languageVersion = JavaLanguageVersion.of(17)}
 }
 
 repositories {
